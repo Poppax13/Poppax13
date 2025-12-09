@@ -18,9 +18,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
   <img src="https://skillicons.dev/icons?i=canva" width="45"/>
-  ## 🤝 Looking to Collaborate On
-## Open-source projects, modern web applications, cloud-powered backends, and anything involving AI or automation.
+## 🤝 Looking to Collaborate On
+Open-source projects, modern web applications, cloud-powered backends, and anything involving AI or automation.
 ## 📫 How to Reach Me
-## Feel free to contact me via email:  
+Feel free to contact me via email:  
 **omardhaouadi13@gmail.com**
 
