@@ -24,6 +24,6 @@ Open-source projects, modern web applications, cloud-powered backends, and anyth
 ---
 
 ## 📫 How to Reach Me
-Feel free to contact me via email: **omardhaouadi13@gmail.com**
+Feel free to contact me via email: omardhaouadi13@gmail.com
 
 
