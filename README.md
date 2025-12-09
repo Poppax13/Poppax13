@@ -20,7 +20,10 @@
   <img src="https://skillicons.dev/icons?i=canva" width="45"/>
 ## 🤝 Looking to Collaborate On
 Open-source projects, modern web applications, cloud-powered backends, and anything involving AI or automation.
+
+---
+
 ## 📫 How to Reach Me
-Feel free to contact me via email:  
-**omardhaouadi13@gmail.com**
+Feel free to contact me via email: **omardhaouadi13@gmail.com**
+
 
